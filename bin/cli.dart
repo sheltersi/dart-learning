@@ -1,7 +1,7 @@
 import 'package:cli/cli.dart' as cli;
 
 void main(){
-  User user = User(name: "Alice", location: "4 heelra road");
+  User user = User(name: "Alice", location: "soweto");
   print(user.greet());
 }
 
